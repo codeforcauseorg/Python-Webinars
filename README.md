@@ -3,6 +3,13 @@
 </p>
 <h1 align="center">Python Webinars</h1>
 
+<div align="center">
+  ✨ Repository contains all of the code of python webinars
+</div>
+
+<br />
+
+
 ## ⚡️ Introduction
 This repository contains all of the code for each individual lesson and is broken into five lecture. lecture-1, lecture-2, lecture-3, lecture-4, and lecture-5. Each section contains a folder for each lesson that contains all the code for the project as of the end of that lesson.
 
